@@ -67,13 +67,13 @@ docker run --rm closures-test
 Output deve ser:
 
 ```bash
-➜  closure-anatomy git:(main) ✗ docker run --rm closures-test  
-
+➜  closure-anatomy git:(main) docker run --rm closures-test
 === Executando JavaScript - Deno runtime ===
 JS is Ok
 === Executando Ruby ===
 Ruby is OK
 === Executando Go ===
+Go is ok
 ```
 
 Leia as referêncas, vai ajudar a ter um entendimento mais profundo.
